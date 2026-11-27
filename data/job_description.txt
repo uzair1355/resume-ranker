@@ -1,0 +1,17 @@
+Full-Stack Python Developer
+
+We are looking for a Full-Stack Developer with strong Python experience to build and maintain web applications.
+
+Responsibilities:
+- Develop backend services and REST APIs using Python, Flask or Django
+- Build responsive frontends using React, JavaScript, HTML and CSS
+- Design and query databases such as MongoDB, PostgreSQL or MySQL
+- Write clean, tested code and collaborate using Git and GitHub
+- Deploy applications and work with Docker and cloud platforms
+
+Requirements:
+- Bachelor's degree in Computer Science or a related field
+- Hands-on experience with Python, JavaScript and SQL
+- Experience building and consuming APIs
+- Familiarity with machine learning or data processing is a plus
+- Strong problem solving and communication skills
